@@ -14,4 +14,4 @@ Papers:
 5. Vanishing of Brauer groups of moduli stacks of stable curves, joint work with Kazuhiro Ito,   <a href="https://arxiv.org/abs/2412.20435">arxiv</a>
 
 Notes:
-Lectures notes for a course on prismatic cohomology <a href="<a href="https://www.dropbox.com/scl/fi/c1wm2rhs8y1937n7l32r3/Notes_lectures_Prismatic.pdf?rlkey=yyuyhv20gpetn894ydvu0ir5h&st=gajy0qot&dl=0">pdf</a>
+Lectures notes for a course on prismatic cohomology <a href="https://www.dropbox.com/scl/fi/c1wm2rhs8y1937n7l32r3/Notes_lectures_Prismatic.pdf?rlkey=yyuyhv20gpetn894ydvu0ir5h&st=gajy0qot&dl=0">pdf</a>

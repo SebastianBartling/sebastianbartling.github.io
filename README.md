@@ -14,7 +14,6 @@ Papers:
 3. Sur la cohomologie étale de la courbe de Fargues-Fontaine, (2022) <a href="https://arxiv.org/abs/2206.14253">arxiv</a>
 4. Moduli spaces of nilpotent displays, joint work with Manuel Hoff, IMRN (2025),  <a href="https://arxiv.org/abs/2404.10132">arxiv</a>
 5. Vanishing of Brauer groups of moduli stacks of stable curves, joint work with Kazuhiro Ito, Forum Math Sigma (to appear), (2024)  <a href="https://arxiv.org/abs/2412.20435">arxiv</a>
-6. Close p-adic fields and Rapoport-Zink spaces, joint work with Andreas Mihatsch, (2025)
 
 Notes:
 Lecture notes for a course on prismatic cohomology <a href="https://www.dropbox.com/scl/fi/c1wm2rhs8y1937n7l32r3/Notes_lectures_Prismatic.pdf?rlkey=yyuyhv20gpetn894ydvu0ir5h&st=gajy0qot&dl=0">pdf</a>
